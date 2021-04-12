@@ -1,0 +1,2 @@
+data/*.record
+model-checkpoint/ssdmobilenetv1/model*.*
